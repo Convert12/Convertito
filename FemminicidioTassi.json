@@ -1,0 +1,110 @@
+[{
+    "index":0,
+    "regione":"Piemonte",
+    "tassi": 0.28
+},
+{
+    "index":1,
+    "regione":"Valle d'osta",
+    "tassi":""
+},
+{
+    "index":2,
+    "regione":"Liguria",
+    "tassi":0.20
+},
+{
+    "index":3,
+    "regione":"Lombardia",
+    "tassi": 0.21
+},
+{
+    "index":4,
+    "regione":"Trentino-Alto Adige",
+    "tassi": ""
+},
+{
+    "index":5,
+    "regione":"Bolzano",
+    "tassi":""
+},
+{
+    "index":6,
+    "regione":"Trento",
+    "tassi":""
+},
+{
+    "index":7,
+    "regione":"Veneto",
+    "tassi":0.14
+},
+{
+    "index":8,
+    "regione":"Friuli-Venezia Giulia",
+    "tassi":0.08
+},
+{
+    "index":9,
+    "regione":"Emilia-Romagna",
+    "tassi":0.16
+},
+{
+    "index":10,
+    "regione":"Toscana",
+    "tassi":0.19
+},
+{
+    "index":11,
+    "regione":"Umbria",
+    "tassi":0.12
+},
+{
+    "index":12,
+    "regione":"Marche",
+    "tassi":0.27
+},
+{
+    "index":13,
+    "regione":"Lazio",
+    "tassi":0.33
+},
+{
+    "index":14,
+    "regione":"Abruzzo",
+    "tassi":0.16
+},
+{
+    "index":15,
+    "regione":"Molise",
+    "tassi":""
+},
+{
+    "index":16,
+    "regione":"Campania",
+    "tassi":0.49
+},
+{
+    "index":17,
+    "regione":"Puglia",
+    "tassi":0.43
+},
+{
+    "index":18,
+    "regione":"Basilicata",
+    "tassi":0.55
+},
+{
+    "index":19,
+    "regione":"Calabria",
+    "tassi":0.48
+},
+{
+    "index":20,
+    "regione":"Sicilia",
+    "tassi":0.45
+},
+{
+    "index":21,
+    "regione":"Sardegna",
+    "tassi":0.44
+}]
